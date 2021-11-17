@@ -1,4 +1,4 @@
-> ⚠️ This project is archived. You can now run your Deploy scripts with `deno run`: https://deno.com/deploy/docs/running-scripts-locally/
+> ⚠️ This project is archived. You can now run your Deploy scripts with `deno run`: https://deno.com/deploy/docs/running-scripts-locally
 
 ---
 
